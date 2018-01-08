@@ -25,7 +25,7 @@ SECRET_KEY = '5(yxp4rtnov$2@^81&-gz3dia1+bzzg60@1erohjjg)on+3#$h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<cabrerabi>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cabrerabi.pythonanywhere.com']
 
 
 # Application definition
